@@ -6,4 +6,4 @@ do
    product=$((product * i))
 done
 
-echo "The product of number from 10 to 30 is: $product"
+echo "The product of numbers from 10 to 30 is: $product"
